@@ -1,0 +1,65 @@
+body {
+  
+  width: 1100px;
+  font-family: 'Roboto', sans-serif;
+  background-color: rgb(225, 247, 199);
+  margin: 15px;
+  
+}
+
+h1 {
+
+  font-size: 200%;
+  margin-bottom: 30px;
+
+}
+
+
+#button {
+
+  width: auto;
+  border: 2px black solid;
+  border-radius: 6px;
+  font-size: 18px;
+  padding: 5px 8px 5px 8px;
+  background-image: linear-gradient(to right, #0ba360, #3cba92, #30dd8a, #2bb673);
+  box-shadow: 0 4px 15px 0 rgba(23, 168, 108, 0.75);
+  opacity: 1;
+}
+
+#button:hover {
+  opacity: 0.5;
+}
+
+#threeOs {
+
+width: 500px;  
+border: 1px black solid;
+padding: 5px 10px;
+border-radius: 6px;
+
+}
+
+#tableHead {
+
+  font-weight: bolder;
+  text-decoration: underline;
+
+}
+
+#tableRows {
+
+  text-align: center;
+
+}
+
+#aboutKristin {
+
+width: 681px;
+
+}
+
+#about {
+
+  text-decoration: underline;
+}
